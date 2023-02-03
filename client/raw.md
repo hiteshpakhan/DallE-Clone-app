@@ -35,3 +35,5 @@ backend server link is follows
 and hole project is hosted link is as follows
 
         https://hitesh-pakhan-dalle.netlify.app/
+
+i have posted all the files on github except env file that you can get in the google drive 
